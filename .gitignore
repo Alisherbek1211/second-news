@@ -208,6 +208,7 @@ cython_debug/
 
 # pytype static type analyzer
 
+
 # Cython debug symbols
 
 # End of https://www.toptal.com/developers/gitignore/api/python,flask
